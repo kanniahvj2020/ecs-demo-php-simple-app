@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>SA Launch Team3 - Tech Innovators</h1>
-                <h2>AWS CI/CD Demo App V1</h2>
+                <h2>AWS CI/CD Demo App V2</h2>
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS via Fargate (Serverless).</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
