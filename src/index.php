@@ -16,9 +16,9 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>AWS ECS Demo</h1>
-                <h2>DevOps Demo App V5</h2>
+                <h2>DevOps Demo App V6</h2>
                 <h2>Congratulations</h2>
-                <p>Your PHP application is now running on a container in Amazon ECS via Fargate (Serverless) for L4G 16Sept.</p>
+                <p>Your PHP application is now running on a container in Amazon ECS via Fargate (Serverless) for L4G 16Sept 11:41AM.</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
